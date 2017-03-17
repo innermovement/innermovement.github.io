@@ -1,0 +1,14 @@
+# Site settings
+title:
+email:
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+facebook_username: InnerMovementProject
+instagram_username: innermovementpk
+email: innermovementproject@gmail.com
+youtube_username: UCo6OJX0B2XILiq6nRkWk1SQ
+
+# Build settings
+markdown: kramdown
